@@ -1,0 +1,8 @@
+# Import ghostty settings
+config-file = ./settings.conf
+
+# Import ghostty colors
+config-file = ./colors.conf
+
+# Import wal-colors.conf if exist
+config-file = ?./wal-colors.conf
