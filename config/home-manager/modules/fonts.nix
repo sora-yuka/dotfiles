@@ -9,6 +9,7 @@
     cascadia-code
     source-code-pro
     iosevka
+    maple-mono.truetype # or maple-mono.CN
     nerd-fonts.jetbrains-mono
     nerd-fonts.iosevka
     nerd-fonts.meslo-lg
